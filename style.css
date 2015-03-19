@@ -1,0 +1,11 @@
+section header h4 {
+	color: blue;
+}
+.purple-paragraph {
+	font-family: "Times New Roman",Georgia, Serif; 
+	color: #ffc3a0;
+	font-size: 20px;
+}
+ul {
+list-style-type: square;
+}
